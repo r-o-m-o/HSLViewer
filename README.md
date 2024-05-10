@@ -1,2 +1,1 @@
-![スクリーンショット 2024-05-10 17 09 33](https://github.com/r-o-m-o/HSLViewer/assets/106952784/e659422c-0cb0-428b-bff7-f4b3272e7f2b)
-
+![スクリーンショット 2024-05-10 17 13 36](https://github.com/r-o-m-o/HSLViewer/assets/106952784/1188547f-1af6-4274-9f44-8e06ed9a0732)
